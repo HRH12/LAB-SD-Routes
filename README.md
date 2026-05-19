@@ -23,18 +23,6 @@ This lab focuses on foundational routing concepts, specifically **default routes
 - Update and assign **proper hostnames to all network devices**
 ---
 
-## Key Skills Practiced
-
-- Static IP configuration
-- Static routing implementation
-- Default route configuration (`0.0.0.0/0`)
-- Basic network security hardening
-- Switch port management
-- Network troubleshooting and validation
-- Device naming conventions
-
----
-
 ## Expected Outcome
 
 By the end of this lab, the network should:
