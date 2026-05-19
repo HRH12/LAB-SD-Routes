@@ -12,7 +12,7 @@ This lab focuses on foundational routing concepts, specifically **default routes
 <img width="740" height="311" alt="image" src="https://github.com/user-attachments/assets/982816ba-eda0-4c16-a6d7-1c8013a07aee" />
 
 ## Router Addressing Requirements 
-<img width="747" height="307" alt="image" src="https://github.com/user-attachments/assets/7156650d-e820-4661-8ee4-21062d9196e4" />
+<img width="726" height="300" alt="image" src="https://github.com/user-attachments/assets/48f2db02-167b-4bf7-8b2f-fafb74fdfc16" />
 
 ## Lab Objectives
 - Configure **static IP addressing** on all devices (no DHCP)
