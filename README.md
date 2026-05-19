@@ -35,5 +35,6 @@ By the end of this lab, the network should:
 ## Notes
 
 Take time to verify each configuration step. If connectivity fails, troubleshoot routing tables, interface status, and IP addressing first.
+
 When creating routes: "Where I'm going, how I'm I going to get there"
 ---
